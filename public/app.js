@@ -109,9 +109,11 @@ function initRealHeroProducts() {
   document.querySelectorAll("[data-hero-image]").forEach(img => {
     const product = productById(img.dataset.heroImage);
     if (!product) return;
+    // Use the product's stable default image in the hero. Some alternate
+    // colour images are much smaller and can render partially on mobile.
     const preferredColor = {
-      "home-tray-set":"שמנת",
-      "ribbed-planter":"לבן",
+      "home-tray-set":"שחור",
+      "ribbed-planter":"שחור",
       "spiral-cone":"לבן",
       "cool-desk-animal":""
     }[product.id] || defaultColor(product.id);
