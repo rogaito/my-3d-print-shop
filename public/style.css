@@ -1814,3 +1814,20 @@ body{
     width:100%!important;
   }
 }
+
+
+/* ===== Keep product actions above fixed mobile navigation ===== */
+@media(max-width:850px){
+  /* The bottom navigation stays untouched. Reserve its visual height for the modal. */
+  .product-modal{
+    padding:0 0 calc(104px + env(safe-area-inset-bottom))!important;
+  }
+  .product-modal-card{
+    max-height:calc(100dvh - 116px - env(safe-area-inset-bottom))!important;
+    border-radius:26px!important;
+    scroll-padding-bottom:28px;
+  }
+  .product-modal-content{
+    padding-bottom:34px!important;
+  }
+}
