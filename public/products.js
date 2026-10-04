@@ -10,7 +10,7 @@ const PRODUCTS = [
     priceValue: 110,
     colors: ["שחור", "לבן", "ורוד כהה", "שמנת", "זית"],
     image: "images/home-tray-set-black.jpg",
-    images: {"שחור":"images/home-tray-set-black.jpg","לבן":"images/home-tray-set-white.jpg","ורוד כהה":"images/home-tray-set-pink-dark.jpg","שמנת":"images/home-tray-set-cream.jpg","זית":"images/home-tray-set-olive.jpg"}
+    images: {"שחור":"images/home-tray-set-black.jpg","לבן":"images/home-tray-set-white.jpg","ורוד כהה":"images/home-tray-set-pink-dark.jpg","שמנת":"images/home-tray-set-cream-hq.svg","זית":"images/home-tray-set-olive.jpg"}
   },
   {
     id: "ribbed-planter",
@@ -20,7 +20,7 @@ const PRODUCTS = [
     priceValue: 50,
     colors: ["שחור", "לבן", "ורוד כהה", "שמנת", "זית"],
     image: "images/ribbed-planter-black.jpg",
-    images: {"שחור":"images/ribbed-planter-black.jpg","לבן":"images/ribbed-planter-white.jpg","ורוד כהה":"images/ribbed-planter-pink-dark.jpg","שמנת":"images/ribbed-planter-cream.jpg","זית":"images/ribbed-planter-olive.jpg"}
+    images: {"שחור":"images/ribbed-planter-black.jpg","לבן":"images/ribbed-planter-white-hq.svg","ורוד כהה":"images/ribbed-planter-pink-dark.jpg","שמנת":"images/ribbed-planter-cream.jpg","זית":"images/ribbed-planter-olive.jpg"}
   },
   {
     id: "spiral-cone",
@@ -32,9 +32,9 @@ const PRODUCTS = [
     image: "images/spiral-cone-white.jpg",
     images: {
       "לבן":"images/spiral-cone-white.jpg",
-      "שחור":"images/spiral-cone-black.jpg",
-      "צהוב":"images/spiral-cone-yellow.jpg",
-      "קשת":"images/spiral-cone-rainbow.jpg"
+      "שחור":"images/spiral-cone-black-hq.svg",
+      "צהוב":"images/spiral-cone-yellow-hq.svg",
+      "קשת":"images/spiral-cone-rainbow-hq.svg"
     }
   },
   {
@@ -54,7 +54,7 @@ const PRODUCTS = [
     description: "ביצת הפתעה מודפסת בתלת־ממד עם משחק מגניב בתוכה, כיפית לפתיחה ולמשחק.",
     priceValue: 20,
     colors: [],
-    image: "",
+    image: "images/boys-surprise-egg.jpg",
     images: {}
   }
 ];
