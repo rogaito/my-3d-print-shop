@@ -29,12 +29,12 @@ const PRODUCTS = [
     description: "קונוס ספירלה מודפס בתלת־ממד בעיצוב דקורטיבי.",
     priceValue: 15,
     colors: ["לבן", "שחור", "צהוב", "קשת"],
-    image: "images/spiral-cone-white.jpg",
+    image: "images/spiral-cone-white.jpg?v=cone-originals-20261121",
     images: {
-      "לבן":"images/spiral-cone-white.jpg",
-      "שחור":"images/spiral-cone-black.jpg?v=black-photo-20261121",
-      "צהוב":"images/spiral-cone-yellow.jpg?v=restored-20261121",
-      "קשת":"images/spiral-cone-rainbow.jpg?v=restored-20261121"
+      "לבן":"images/spiral-cone-white.jpg?v=cone-originals-20261121",
+      "שחור":"images/spiral-cone-black.jpg?v=cone-originals-20261121",
+      "צהוב":"images/spiral-cone-yellow.jpg?v=cone-originals-20261121",
+      "קשת":"images/spiral-cone-rainbow.jpg?v=cone-originals-20261121"
     }
   },
   {
