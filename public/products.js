@@ -19,8 +19,8 @@ const PRODUCTS = [
     description: "עציץ מודפס בתלת־ממד עם טקסטורה אנכית בעיצוב נקי לבית.",
     priceValue: 50,
     colors: ["שחור", "לבן", "ורוד כהה", "שמנת", "זית"],
-    image: "images/ribbed-planter-black.jpg",
-    images: {"שחור":"images/ribbed-planter-black.jpg","לבן":"images/ribbed-planter-white.jpg?v=white-planter-photo-20261121","ורוד כהה":"images/ribbed-planter-pink-dark.jpg","שמנת":"images/ribbed-planter-cream.jpg","זית":"images/ribbed-planter-olive.jpg"}
+    image: "images/ribbed-planter-black.jpg?v=planter-photos-20261121",
+    images: {"שחור":"images/ribbed-planter-black.jpg?v=planter-photos-20261121","לבן":"images/ribbed-planter-white.jpg?v=planter-photos-20261121","ורוד כהה":"images/ribbed-planter-pink-dark.jpg?v=planter-photos-20261121","שמנת":"images/ribbed-planter-cream.jpg","זית":"images/ribbed-planter-olive.jpg?v=planter-photos-20261121"}
   },
   {
     id: "spiral-cone",
