@@ -20,7 +20,7 @@ const PRODUCTS = [
     priceValue: 50,
     colors: ["שחור", "לבן", "ורוד כהה", "שמנת", "זית"],
     image: "images/ribbed-planter-black.jpg",
-    images: {"שחור":"images/ribbed-planter-black.jpg","לבן":"images/ribbed-planter-white.jpg?v=restored-20261121","ורוד כהה":"images/ribbed-planter-pink-dark.jpg","שמנת":"images/ribbed-planter-cream.jpg","זית":"images/ribbed-planter-olive.jpg"}
+    images: {"שחור":"images/ribbed-planter-black.jpg","לבן":"images/ribbed-planter-white.jpg?v=white-planter-photo-20261121","ורוד כהה":"images/ribbed-planter-pink-dark.jpg","שמנת":"images/ribbed-planter-cream.jpg","זית":"images/ribbed-planter-olive.jpg"}
   },
   {
     id: "spiral-cone",
