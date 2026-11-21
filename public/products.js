@@ -54,7 +54,7 @@ const PRODUCTS = [
     description: "ביצת הפתעה מודפסת בתלת־ממד עם משחק מגניב בתוכה, כיפית לפתיחה ולמשחק.",
     priceValue: 20,
     colors: [],
-    image: "images/boys-surprise-egg.jpg",
+    image: "images/boys-surprise-egg.jpg?v=egg-photo-20261121",
     images: {}
   }
 ];
