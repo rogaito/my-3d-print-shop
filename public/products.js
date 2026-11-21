@@ -32,7 +32,7 @@ const PRODUCTS = [
     image: "images/spiral-cone-white.jpg",
     images: {
       "לבן":"images/spiral-cone-white.jpg",
-      "שחור":"images/spiral-cone-black.jpg",
+      "שחור":"images/spiral-cone-black.jpg?v=black-photo-20261121",
       "צהוב":"images/spiral-cone-yellow.jpg?v=restored-20261121",
       "קשת":"images/spiral-cone-rainbow.jpg?v=restored-20261121"
     }
