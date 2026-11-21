@@ -44,7 +44,7 @@ const PRODUCTS = [
     description: "חיית שולחן דקורטיבית מודפסת בתלת־ממד.",
     priceValue: 45,
     colors: [],
-    image: "images/cool-desk-animal.jpg",
+    image: "images/cool-desk-animal.jpg?v=desk-animal-photo-20261121",
     images: {}
   },
   {
