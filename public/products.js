@@ -9,8 +9,8 @@ const PRODUCTS = [
     description: "סט דקורטיבי לבית הכולל מגש ופריטי עיצוב במראה מודרני.",
     priceValue: 110,
     colors: ["שחור", "לבן", "ורוד כהה", "שמנת", "זית"],
-    image: "images/home-tray-set-black.jpg",
-    images: {"שחור":"images/home-tray-set-black.jpg","לבן":"images/home-tray-set-white.jpg","ורוד כהה":"images/home-tray-set-pink-dark.jpg","שמנת":"images/home-tray-set-cream.jpg?v=cream-photo-20261121","זית":"images/home-tray-set-olive.jpg"}
+    image: "images/home-tray-set-black.jpg?v=tray-photos-20261121",
+    images: {"שחור":"images/home-tray-set-black.jpg?v=tray-photos-20261121","לבן":"images/home-tray-set-white.jpg?v=tray-photos-20261121","ורוד כהה":"images/home-tray-set-pink-dark.jpg?v=tray-photos-20261121","שמנת":"images/home-tray-set-cream.jpg?v=cream-photo-20261121","זית":"images/home-tray-set-olive.jpg?v=tray-photos-20261121"}
   },
   {
     id: "ribbed-planter",
